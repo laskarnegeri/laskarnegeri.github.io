@@ -1,5 +1,6 @@
 Laskar Negeri.id | Kolaborasi Ciptakan Aksi
 
-Developer Collaboration :
-M Taufik Hidayat
-Nanda Hady Mulya https://github.com/nandahadymulya
+Developer Collaboration
+
+1. M Taufik Hidayat
+2. Nanda Hady Mulya https://github.com/nandahadymulya
